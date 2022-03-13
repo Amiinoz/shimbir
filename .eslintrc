@@ -1,0 +1,8 @@
+{
+  "extends": ["some-other-config-you-use", "prettier"],
+
+  "rules": {
+    "require-jsdoc": 0,
+    "react/react-in-jsx-scope": "off"
+  }
+}
